@@ -2826,17 +2826,17 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "seedProject/1.0.0": {
+      "Leetspeak/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
           "Microsoft.NETCore.App": "1.1.2"
         },
         "compile": {
-          "bin/placeholder/seedProject.dll": {}
+          "bin/placeholder/Leetspeak.dll": {}
         },
         "runtime": {
-          "bin/placeholder/seedProject.dll": {}
+          "bin/placeholder/Leetspeak.dll": {}
         }
       }
     }
@@ -8481,19 +8481,19 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "seedProject/1.0.0": {
+    "Leetspeak/1.0.0": {
       "type": "project",
-      "path": "../seedProject/seedProject.csproj",
-      "msbuildProject": "../seedProject/seedProject.csproj"
+      "path": "../Leetspeak/Leetspeak.csproj",
+      "msbuildProject": "../Leetspeak/Leetspeak.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "Leetspeak >= 1.0.0",
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
-      "Microsoft.NETCore.App >= 1.1.2",
-      "seedProject >= 1.0.0"
+      "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
   "packageFolders": {
@@ -8502,11 +8502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/seedProject.Solutions/seedProject.Tests/seedProject.Tests.csproj",
-      "projectName": "seedProject.Tests",
-      "projectPath": "/Users/Guest/Desktop/seedProject.Solutions/seedProject.Tests/seedProject.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak.Tests/Leetspeak.Tests.csproj",
+      "projectName": "Leetspeak.Tests",
+      "projectPath": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak.Tests/Leetspeak.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/seedProject.Solutions/seedProject.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Guest/.nuget/NuGet/NuGet.Config"
@@ -8520,8 +8520,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "/Users/Guest/Desktop/seedProject.Solutions/seedProject/seedProject.csproj": {
-              "projectPath": "/Users/Guest/Desktop/seedProject.Solutions/seedProject/seedProject.csproj"
+            "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak/Leetspeak.csproj": {
+              "projectPath": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak/Leetspeak.csproj"
             }
           }
         }
