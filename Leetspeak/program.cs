@@ -1,12 +1,19 @@
 using  System;
+using System.Collections.Generic;
 
-namespace  seedProject
+namespace  Leetspeak
 {
   public class Program
   {
     public static void Main(string[] args)
     {
-      // fill out main program here
+      Console.WriteLine("Enter the string");
+      string userInputString = Console.ReadLine();
+
+      LeetspeakTranslator newLeetspeak = new LeetspeakTranslator();
+
+      Console.WriteLine(newLeetspeak.userInput(userInputString));
+    
     }
   }
 }

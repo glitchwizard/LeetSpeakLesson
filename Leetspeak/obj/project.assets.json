@@ -7042,11 +7042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/seedProject.Solutions/seedProject/seedProject.csproj",
-      "projectName": "seedProject",
-      "projectPath": "/Users/Guest/Desktop/seedProject.Solutions/seedProject/seedProject.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak/Leetspeak.csproj",
+      "projectName": "Leetspeak",
+      "projectPath": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak/Leetspeak.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/seedProject.Solutions/seedProject/obj/",
+      "outputPath": "/Users/Guest/Desktop/LeetSpeakLesson/Leetspeak/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Guest/.nuget/NuGet/NuGet.Config"
